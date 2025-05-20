@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0f0f0f;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+header {
+  padding: 20px;
+  background: #1a1a1a;
+  text-align: center;
+  border-bottom: 2px solid #00ffe0;
+}
+
+h1 {
+  color: #00ffe0;
+  margin-bottom: 10px;
+}
+
+main {
+  padding: 30px;
+}
+
+.comunicado h2 {
+  color: #ff2f70;
+  margin-bottom: 20px;
+}
+
+.bloco {
+  background: #1a1a1a;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-left: 5px solid #00ffe0;
+  border-radius: 8px;
+}
+
+.bloco h3 {
+  color: #00ffe0;
+}
+
+.destaque {
+  color: #ff2f70;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  margin-top: 10px;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 12px;
+  text-align: center;
+  background-color: #181818;
+}
+
+th {
+  background-color: #222;
+  color: #00ffe0;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #111;
+  color: #888;
+  font-style: italic;
+}
